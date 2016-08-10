@@ -17,7 +17,7 @@ void replay();
 
 int main(void)
 {
-    int answer;
+    int answer = -1;
     printf("Welcome to the greatest story ever told.\nA reckless adventurer (You) wanders deep into the night.\n"); sleep(6);
     printf("The moon shines brightly across the valley causing shadows to dance as the wind carresses the trees.\n"); sleep(2);
     printf("Peering into the valley you see a bog.\n"); sleep(3);
