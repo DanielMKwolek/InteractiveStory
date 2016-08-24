@@ -246,6 +246,7 @@
 				65FA03061D5A73F500B1D841 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
